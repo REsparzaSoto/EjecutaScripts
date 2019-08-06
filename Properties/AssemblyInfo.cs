@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("EjecutaSps")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Herramienta para ejecutar scripts de Microsoft Sql Server.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("EjecutaSps")]
